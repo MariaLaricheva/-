@@ -1,4 +1,4 @@
-# Base components of web technology
+# Base components of web technologies
 
 В данном репозитории хранятся отчёты по лабораторным работам по курсу Базовые Компоненты Интернет-Технологий
 
